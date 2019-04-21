@@ -27,7 +27,6 @@
 
 char *encrypted_password= "$6$KB$.mzYlKZH98ERJvUQ4W2HLVk4bQuv.E/AjFR0SYIXgrutOdtW27ojLaBXhgZGvkYqA6PPEQw5y2omHyD4j1u4B/";
 
-char xyx;
 int time_difference(struct timespec *start, 
                     struct timespec *finish, 
                     long long int *difference) {

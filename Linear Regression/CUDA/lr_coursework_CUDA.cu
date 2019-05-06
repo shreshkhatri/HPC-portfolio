@@ -8,7 +8,7 @@
 
 #define DATA_SIZE 1000
 /******************************************************************************
- This program finds minimum cost or loss for by brute forcing different values of slope 'm' and 'c'.
+ This program finds minimum cost or loss for by brute forcing different values of slope 'm' and 'c' in order.
 Dataset has 1000 data. The program creates 1 block consisting of 1000 threads. Each thread references a single 
 data and receives dm and dc and calculates residual error. The total residual error or RMS error is calculated
 and compared against past residual error marked as best error.

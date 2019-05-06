@@ -1,0 +1,7 @@
+Checklist
+-- insert node info specification
+-- insert Linear reg posix c with extraneous print statement 
+-- Comment of the effect of invoking more threads than cores.
+    Image processing CUDA
+--MPI image processing output remaining
+--MPI password cracking remaiing
